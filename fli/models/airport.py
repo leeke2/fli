@@ -2610,7 +2610,7 @@ class Airport(Enum):
     HJT = "Khujirt Airport"
     HKA = "Blytheville Municipal Airport"
     HKD = "Hakodate Airport"
-    HKG = "Chek Lap Kok International Airport"
+    HKG = "Hong Kong International Airport"
     HKK = "Hokitika Airfield"
     HKN = "Kimbe Airport"
     HKS = "Hawkins Field"
